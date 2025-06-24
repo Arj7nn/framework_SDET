@@ -1,0 +1,1 @@
+print("ONLY FOR TEST VERSION")
